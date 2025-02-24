@@ -21,7 +21,7 @@ namespace ProjetoFor1
             }
 
 
-            Console.ReadKey();
+Console.ReadKey();
         }
     }
 }
